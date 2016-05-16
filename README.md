@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Pagekit Banner](https://cloud.githubusercontent.com/assets/1716665/14317675/ba034b8c-fc09-11e5-81ed-f10f37d86ea5.png)](https://pagekit.com)
 
 # Pagekit
@@ -43,3 +44,7 @@ Copyright [YOOtheme](http://www.yootheme.com) GmbH under the [MIT license](LICEN
 ## Credits
 
 [Half Dome Photo](http://www.youseethenew.com/landscape-outdoors/) by Brendan Lynch / [CC BY](http://creativecommons.org/licenses/by-nd/4.0/)
+=======
+# pk-aries
+Aries Concept PageKit CMS
+>>>>>>> 317a7fe2254261125c38197bd05dd5d7b6d0dce6
